@@ -15,7 +15,7 @@ This repository contains [MariaDB](https://mariadb.org/) for [Docker](https://ww
 
 2. Download [automated build](https://registry.hub.docker.com/u/lucianojr/mariadb/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull luciano-jr/mariadb`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="luciano-jr/mariadb" github.com/luciano-jr/mariadb`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="lucianojr/mariadb" github.com/luciano-jr/mariadb`)
 
 
 ### Usage
